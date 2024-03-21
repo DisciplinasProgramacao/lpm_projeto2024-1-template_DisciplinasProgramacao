@@ -1,5 +1,5 @@
 # LPM Comidinhas Veganas
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo do projeto é desenvolver um sistema de gerenciamento de um restaurante.
 
 ## Alunos integrantes da equipe
 
@@ -8,9 +8,9 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Gabriel Peçanha Santiago
 * Laura Batista da Silva
 * Octavio Walter Rattes
-* Mariana Almeida
+* Mariana Almeida Henriques
 
-## Professores responsáveis
+## Professor responsável
 
 * João Caram
 
